@@ -15,18 +15,18 @@ I'm Dave Francis Zapanta, a passionate CPE student with a focus on system admini
 | **Hands-on Activity - 2** | [SSH Key-Based Authentication and GIT Setup](#) |
 | **Hands-on Activity - 3** | [Install SSH Server on CentOS and RHEL 8](#) |
 | **Hands-on Activity - 4** | [Ansible Basics](#) |
-| **Exam** | [Prelim Examination](#) |
-| **Hands-on Activity - 5** | [Implement Ansible Roles in Playbooks](#) |
-| **Hands-on Activity - 6** | [Targeting Specific Nodes](#) |
-| **Hands-on Activity - 7** | [Managing Files and Creating Roles in Ansible](#) |
-| **Hands-on Activity - 8** | [Install, Configure, and Manage Enterprise Availability Monitoring via Ansible](#) |
-| **Hands-on Activity - 9** | [Install, Configure, and Manage Enterprise Performance Monitoring via Ansible](#) |
-| **Hands-on Activity - 10** | [Install, Configure, and Manage Enterprise Log Monitoring via Ansible](#) |
-| **Exam** | [Midterm Examination](#) |
-| **Hands-on Activity - 11** | [Containerization](#) |
-| **Hands-on Activity - 12** | [Build a Sample Web App in a Docker Container](#) |
-| **Hands-on Activity - 13** | [OpenStack Prerequisite Installation](#) |
-| **Hands-on Activity - 14** | [OpenStack Installation (Keystone, Glance, Nova)](#) |
+| **Exam** | [Prelim Examination](https://github.com/qdf-zapanta/Zapanta_PrelimExam) |
+| **Hands-on Activity - 5** | [Implement Ansible Roles in Playbooks](https://github.com/qdf-zapanta/CPE232_Zapanta) |
+| **Hands-on Activity - 6** | [Targeting Specific Nodes](https://github.com/qdf-zapanta/CPE232_Zapanta) |
+| **Hands-on Activity - 7** | [Managing Files and Creating Roles in Ansible](https://github.com/qdf-zapanta/CPE232_Zapanta) |
+| **Hands-on Activity - 8** | [Install, Configure, and Manage Enterprise Availability Monitoring via Ansible](https://github.com/qdf-zapanta/CPE232_Dave) |
+| **Hands-on Activity - 9** | [Install, Configure, and Manage Enterprise Performance Monitoring via Ansible](https://github.com/qdf-zapanta/CPE232_DaveHOA9) |
+| **Hands-on Activity - 10** | [Install, Configure, and Manage Enterprise Log Monitoring via Ansible](https://github.com/qdf-zapanta/CPE232_DaveHOA10) |
+| **Exam** | [Midterm Examination](https://github.com/qdf-zapanta/CPE_MIDEXAM_ZAPANTA) |
+| **Hands-on Activity - 11** | [Containerization](https://github.com/qdf-zapanta/CPE232_ZapantaHOA11) |
+| **Hands-on Activity - 12** | [Build a Sample Web App in a Docker Container]() |
+| **Hands-on Activity - 13** | [OpenStack Prerequisite Installation](https://github.com/qdf-zapanta/CPE232_ZapantaHOA13) |
+| **Hands-on Activity - 14** | [OpenStack Installation (Keystone, Glance, Nova)](https://github.com/qdf-zapanta/CPE232_ZapantaHOA14) |
 | **Hands-on Activity - 15** | [OpenStack Installation (Neutron, Horizon, Cinder)](https://github.com/qdf-zapanta/CPE232_ZapantaHOA15) |
 | **Exam** | [Final Examination](#) |
 
