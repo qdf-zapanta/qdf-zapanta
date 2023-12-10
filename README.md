@@ -1,13 +1,13 @@
-### 👋 Hello, World!
+### 👋 Hello, GitHub!
 
-I'm Dave Francis Zapanta, a passionate CPE student with a focus on system administration, automation, and cloud technologies. As an avid learner, I thrive on challenges and believe in the power of hands-on experience.
+I'm Dave Francis Zapanta, a passionate CPE student focusing on system administration, automation, and cloud technologies. As an avid learner, I thrive on challenges and believe in the power of hands-on experience.
 
 #### 🌐 About Me
 - 🚀 Currently on a journey to master the intricacies of System Administration.
 - 💡 Always exploring new technologies to stay ahead in the dynamic tech landscape.
-- 📚 Currently enrolled in at the Technological Institute of the Philippines - Quezon City.
+- 📚 Currently enrolled at the Technological Institute of the Philippines - Quezon City.
 
-### 🛠️ Hands-On Experience
+### 🛠️ Hands-On Activities
 
 | Activity | Description |
 |----------|-------------|
