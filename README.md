@@ -27,7 +27,7 @@ I'm Dave Francis Zapanta, a passionate CPE student with a focus on system admini
 | **Hands-on Activity - 12** | [Build a Sample Web App in a Docker Container](#) |
 | **Hands-on Activity - 13** | [OpenStack Prerequisite Installation](#) |
 | **Hands-on Activity - 14** | [OpenStack Installation (Keystone, Glance, Nova)](#) |
-| **Hands-on Activity - 15** | [OpenStack Installation (Neutron, Horizon, Cinder)]([#](https://github.com/qdf-zapanta/CPE232_ZapantaHOA15)) |
+| **Hands-on Activity - 15** | [OpenStack Installation (Neutron, Horizon, Cinder)](https://github.com/qdf-zapanta/CPE232_ZapantaHOA15) |
 | **Exam** | [Final Examination](#) |
 
 #### 🤔 Reflection and Learnings
